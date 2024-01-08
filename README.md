@@ -193,3 +193,4 @@ predictions = model.predict(img_array)
 score = float(tf.keras.activations.sigmoid(predictions[0][0]))
 print(f"This image is {100 * (1 - score):.2f}% cat and {100 * score:.2f}% dog.")
 ```
+![result](/cat.jpg)
