@@ -10,7 +10,7 @@
 https://colab.research.google.com/drive/1nu94BtR6esbEsVJlvyv2Z2MD5g6T_fMm?usp=sharing
 
 ## 參考資料
-https://colab.research.google.com/drive/1nu94BtR6esbEsVJlvyv2Z2MD5g6T_fMm?usp=sharing
+https://keras.io/examples/vision/image_classification_from_scratch/#train-the-model
 
 ## 引入套件與資源
 使用tensorflow.keras取代教程的keras
